@@ -1,6 +1,6 @@
 ## Usage with -f 'File List', syntax of file must be:
 
-'''FQDN PORT'''
+<pre>FQDN PORT</pre>
 
 # SSL Certification Expiration Checker:
 
